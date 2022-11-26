@@ -1,7 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h3> Deploying on a VM </h3>
+
 
 <form action="action_page.php">
 	  <div class="container">
@@ -10,7 +7,8 @@
 	  <hr>
           <label for="email"><b>Email</b></label>
      <input type="text" placeholder="Enter Email" name="email" id="email" required>
-          <label for="psw"><b>Password</b></label>
+     <br>
+     <label for="psw"><b>Password</b></label>
           <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
           <label for="psw-repeat"><b>Repeat Password</b></label>
           <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
